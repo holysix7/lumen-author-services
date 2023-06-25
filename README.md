@@ -1,2 +1,2 @@
 # lumen-author-services
-Learning creating services for microservices purpose
+Learning creating simple authors service for microservices purpose
